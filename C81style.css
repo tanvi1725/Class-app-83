@@ -8,6 +8,7 @@ h1
 	background-image: url("bg1.jpg");
 	background-position: center;
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 #myCanvas{
